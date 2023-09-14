@@ -7,7 +7,7 @@ public class AnimalsAndLegs {
         int chicken=scanner.nextInt();
         System.out.print("Please enter the number of pigs:");
         int pigs=scanner.nextInt();
-        System.out.println("The number of legs:" + chicken*2+pigs*4);
+        System.out.println("The number of legs:" + (chicken*2+pigs*4));
 
     }
 }
